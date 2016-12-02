@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for ECAD_Clock
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -381,7 +381,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for ECAD_Clock
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
